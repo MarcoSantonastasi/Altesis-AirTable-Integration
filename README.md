@@ -1,4 +1,4 @@
-# Altesis-AirTable-Integration
+# Altésis-AirTable-Integration
 A small project to learn how to use Airtable API (airtable.js) to create and modify a record in a database.
 
 The objective of the exercise is to familiarize with chatting in javacript with a REST API and learn about the ORM model.
