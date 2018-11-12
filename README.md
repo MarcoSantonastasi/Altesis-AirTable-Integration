@@ -1,6 +1,9 @@
 # Altésis-AirTable-Integration
 A small project to learn how to use Airtable API (airtable.js) to create and modify a record in a database.
 
+A live mockup made with Airtable embedded in an <iframe> is here on [my website](https://www.altesis-pro.com/DVR).
+You can use it as a reference for how I intended the final product to work. Please use it but don't abuse it! :)
+
 The objective of the exercise is to familiarize with chatting in javacript with a REST API and learn about the ORM model.
 
 Steps:
