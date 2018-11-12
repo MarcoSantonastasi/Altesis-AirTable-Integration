@@ -14,4 +14,4 @@ Acivity:
 
 In this particular case, Airtable internal routine will make sure that the record in step 1) is updatede too, so you do not have to check or expend any effor to verify consistency of the database.
 
-You will need to learn about the [https://airtable.com/api]Airtable_API and not care about the script airtable.js
+You will need to learn about the [Airtable API](https://airtable.com/api) and not care about the script airtable.js
